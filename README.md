@@ -1,16 +1,40 @@
-## Hi there 👋
+## 🛠️ Created to Create ⚙️
 
-<!--
-**YuseiRun/YuseiRun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello!
 
-Here are some ideas to get you started:
+I am Charles, US based software engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mostly work on backend development. 
+
+I find frontend development fasinating and currently expanding my stack to include Angular.
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=YuseiRun&animated=true)
+
+## Skills
+- ♨️ Java Springboot
+- 🐘 Postgres DB
+- ☁️ GCP Certified
+
+
+## About Me:
+- 🧪 Homelab aficionado 
+- 🤖 AI Ethics Contemplator 
+- 🦾 Fitness Fanatic
+- 📈 CI/CD (Continous Improvement / Continous Development)
+
+
+## Aspirations and Goals
+-  Become a pro nvim user
+-  Protect people from unwanted data exploitation
+-  Be a part of something that matters
+
+
+## WIP
+-  Github Project Installer Script
+
+## Upcoming Projects
+- Immich Photo Replication Program
+- Immich SD Card Autouploader
+
+
+
