@@ -21,6 +21,7 @@ I find frontend development fasinating and currently expanding my stack to inclu
 - 🤖 AI Ethics Contemplator 
 - 🦾 Fitness Fanatic
 - 📈 CI/CD (Continous Improvement / Continous Development)
+- 🐧 Daily Linux Driver
 
 
 ## Aspirations and Goals
@@ -32,9 +33,10 @@ I find frontend development fasinating and currently expanding my stack to inclu
 ## WIP
 -  Github Project Installer Script
 
-## Upcoming Projects
+## Prospective Projects Projects
 - Immich Photo Replication Program
 - Immich SD Card Autouploader
+- Jellyfin Player for CarThing
 
 
 
