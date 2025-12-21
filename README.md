@@ -35,7 +35,7 @@ I find frontend development fasinating and currently expanding my stack to inclu
 -  Github Project Installer Script: Make it easier to update installed github repos
 -  Immich Photo Replication Program: 3,2,1
 
-## Prospective Projects Projects
+## Prospective Projects
 - Immich SD Card Autouploader: RPW2 detect new media, upload new photos to Immich
 - Jellyfin Player for Car/DeskThing: Create a player for jellyfin server for Deskthing
 - Data Viewer: Import CSV JSON to create graphs/ charts, update via apis
