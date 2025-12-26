@@ -15,7 +15,6 @@ I find frontend development fasinating and currently expanding my stack to inclu
 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)    | ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)    | ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff) | ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=whitehttps://img.shields.io/badge/-Linux-12aabb?style=flat-square&logo=linux&logoColor=white) |
 | ![GCP Certified](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)    | ![Typescript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code) |  |
 |  |  | ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white) |  |
-https://github.com/YuseiRun/YuseiRun/blob/main/README.md
 
 ## About Me:
 - 🧪 Homelab aficionado 
