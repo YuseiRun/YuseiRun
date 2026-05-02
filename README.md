@@ -41,7 +41,6 @@ I find frontend development fasinating and currently expanding my stack to inclu
 - Cloud Encrypter: Client side encryption, upload to cloud
 
 ## Books In Progress
-- Dying Earth
 - How to Read a Book
 - Structure and Interpretation of Computer Programs
 - Designing Data-Intensive Applications
