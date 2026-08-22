@@ -53,10 +53,9 @@ I find frontend development fasinating and currently expanding my stack to inclu
 - A Tour of C++
 - Design Patterns
 
-
 ### Language I have tested and my thoughts on them
+
 | Language | Thoughts |
 | ----- | ----- |
-| ![Odin](https://img.shields.io/badge/Odin-4A90E2?logo=odin&logoColor=white) | |
+| ![Odin](https://img.shields.io/badge/Odin-4A90E2?logo=odin&logoColor=white) | [option](/details/odin.md) |
 | ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) | |
-
