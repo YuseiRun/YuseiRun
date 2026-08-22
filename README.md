@@ -57,5 +57,5 @@ I find frontend development fasinating and currently expanding my stack to inclu
 
 | Language | Thoughts |
 | ----- | ----- |
-| ![Odin](https://img.shields.io/badge/Odin-4A90E2?logo=odin&logoColor=white) | [option](/details/odin.md) |
+| ![Odin](https://img.shields.io/badge/Odin-4A90E2?logo=odin&logoColor=white) | [opinion](/details/odin.md) |
 | ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) | |
